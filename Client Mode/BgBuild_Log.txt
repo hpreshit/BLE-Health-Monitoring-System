@@ -1,0 +1,12 @@
+// Copyright 2018 Silicon Laboratories, Inc.
+//
+//
+
+Executing: bgbuild.exe (C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.1\protocol\bluetooth_2.7\bin\bgbuild.exe)
+Standard output
+ALL OK
+
+Error/Warning output
+WARNING: 2a00 length attribute is 13 but actual value length is 9. 13 will be used.
+
+
